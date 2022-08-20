@@ -1,19 +1,5 @@
-### 안녕하세요 끊임없이 발전하는 개발자 이후만입니다. 👋
-
-<!--
-**hooman1025/hooman1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PROFILE
+GWAK JONG WON
 
 ##
 
@@ -27,10 +13,3 @@ Here are some ideas to get you started:
 |Platform & Library|<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>|
 |Code Management|<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>|
 |Collaboration Tools|<img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat-square&logo=Google&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>|
-
-<br>
-<br>
-
-  <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooman1025&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  </div>
