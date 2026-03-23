@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CentOS-262577?&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/Red Hat-EE0000?&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/Rocky Linux-10B981?&logo=rockylinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/CentOS-262577?&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/Red Hat-EE0000?&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/Rocky Linux-10B981?&logo=rockylinux&logoColor=white"/> <img src="https://img.shields.io/badge/VMware (vSphere)-607078?&logo=vmware&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Shell-FFD500?&logo=shell&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?&logo=gnubash&logoColor=white"/>
 
