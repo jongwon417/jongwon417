@@ -11,9 +11,11 @@
 <img src="https://img.shields.io/badge/SQL-3776AB?"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/CentOS-262577?&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/Red Hat-EE0000?&logo=redhat&logoColor=white"/> <img src="https://img.shields.io/badge/Rocky Linux-10B981?&logo=rockylinux&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Shell-FFD500?&logo=shell&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?&logo=gnubash&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/vi-019733?"/> <img src="https://img.shields.io/badge/Vim-019733?&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenSSL-721412?&logo=openssl&logoColor=white"/>
 <img src="https://img.shields.io/badge/ssh-721412?&logo=openssl&logoColor=white"/>
